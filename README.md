@@ -1,4 +1,3 @@
-Proyecto de Christian Solis para el Bootcamp de DataScientist, del grupo ds-41
-Spring 7, proyecto final
+Christian Solis, Project 7, Data Scientist Bootcamp (Tripleten)
 
 https://project-spring-7-1.onrender.com
